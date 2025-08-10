@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/02/66/38/15/360_F_266381525_alVrbw15u5EjhIpoqqa1eI5ghSf7hpz7.jpg");
+    background-size: cover;  /* Makes the image cover the whole page */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Stays fixed while scrolling */
+    
+    border: outset rgb(241, 238, 238) 3px;
+    border-left-width: 5px;
+    padding-bottom: 5%;
+}
